@@ -1,0 +1,25 @@
+.tshirt {
+    
+    border: 3px solid lightgreen;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 15px;
+}
+.tshirt img{
+    height: 250px;
+    
+}
+.t-name {
+    margin-bottom: 0;
+}
+.t-price {
+    margin-top: 0;
+}
+.cart-btn{
+    background-color: rgb(127, 232, 127);
+    border-radius: 7px;
+    padding: 5px 12px;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
